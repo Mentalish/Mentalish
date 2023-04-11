@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mentalish</h1>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mentalish" alt="mentalish" /></a> </p>
+  
 <a href="https://stackoverflow.com/users/21612268" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21612268" height="30" width="40" /></a>
 </p>
 
