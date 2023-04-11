@@ -11,7 +11,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mentalish&" alt="mentalish" /></p>
 
--->
+<!---
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
