@@ -7,7 +7,6 @@
 
 <a href="https://stackoverflow.com/users/21612268" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21612268" height="30" width="40" /></a>
 </p>
-
 <a href="https://www.leetcode.com/mentalish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mentalish" height="30" width="40" /></a>
 </p>
 
