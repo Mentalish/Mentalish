@@ -16,7 +16,7 @@
 <img style="height: auto; width: 45%;" class="img" src="https://github-readme-stats.vercel.app/api?username=mentalish&show_icons=true&locale=en&count_private=true" />
 &nbsp;
 &nbsp;
-<img style="height: auto; width: 47%;" class="img" src="https://github-readme-streak-stats.herokuapp.com/?user=mentalish" /></div>
+<img style="height: auto; width: 47%;" class="img" src="https://github-readme-streak-stats.herokuapp.com/?user=mentalish&" alt="mentalish" " /></div>
 </div>
 
 <!---
