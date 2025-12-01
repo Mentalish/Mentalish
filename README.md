@@ -3,10 +3,10 @@
 <!---<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Mentalish&theme=flat" alt="Mentalish" /></a> </p> -->
 
 <div class='container'>
-<img style="height: 45%; width: 45%;" class="img" src="https://github-readme-stats.vercel.app/api?username=Mentalish&show_icons=true&locale=en&count_private=true" />
+<img style="height: 45%; width: 45%;" class="img" src="https://github-readme-stats.vercel.app/api?username=Mentalish&show_icons=true&count_private=true"  alt=""/>
 &nbsp;
 &nbsp;
-<img style="height: 45%; width: 47.5%;" class="img" src="https://github-readme-streak-stats.herokuapp.com/?user=Mentalish&" alt="mentalish" " /></div>
+<img style="height: 45%; width: 47.5%;" class="img" src="https://github-readme-streak-stats.herokuapp.com/?user=Mentalish&" alt="" " /></div>
 </div>
 
 <h3 align="left">Connect with me:</h3>
